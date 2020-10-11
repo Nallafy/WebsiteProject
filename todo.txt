@@ -1,0 +1,5 @@
+remove whitespaces
+doctype html
+use paragraphs
+use ids instead class names
+
